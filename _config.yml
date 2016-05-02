@@ -1,0 +1,28 @@
+name: Alex Kosh
+favicon: null
+layout_spectrum: 0.21076632314361632
+typography_spectrum: 0.9817766239866614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.29438839852809906
+  lightness: 0.08244935818947852
+  saturation: 0.5325729905162007
+  rhythmicContrast: 0.12015009997412562
+purpose: []
